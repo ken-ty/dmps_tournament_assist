@@ -23,7 +23,7 @@ deck = encode_cardd_by_url(input())
 card_details = []
 
 # csvを開く, card_dbはwithを抜けると自動で閉じる
-with open('db/csv/dmps_card_db.csv') as card_db:
+with open('../db/dmps_card_db.csv') as card_db:
     reader = csv.reader(f)
     for row in reader:
         for card_id, num in deck.items():
