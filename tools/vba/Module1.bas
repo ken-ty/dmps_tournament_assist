@@ -57,29 +57,31 @@ End Function
 '                新しいシートに出力する｡が大会要項を満たしているか
 '               チェックし､シートを作成
 '
-' 備考　　　: 入力シート名..."Sheet2"
-'                作成されるシート名..."hoge"
+' 備考　　　: 入力シート名...""
+'                作成されるシート名..."デッキの持ち主の名前&デッキ"
 '
 
 Sub Action()
 
     ' actionのCells(2,2)のURLからカードIDを取得
-    Worksheets("Sheet2").Activate
+    Worksheets("action").Activate
     
     Dim deck As Dictionary
     Set deck = getCardIdsByUrl(Cells(3, 2).Value)
     
-    ' dbシートのカードIDからカード詳細を取得
+    ' dbシートのカードIDからカード詳細を取得しシートに出力
     Worksheets("db").Activate
+    
+    Range("B17:K57").Clear
 
     With Range("A1").ListObject.Range
         .AutoFilter 1, deck.Keys(), xlFilterValues
-        .SpecialCells(xlCellTypeVisible).Copy Sheets("Sheet2").Range("B16")
+        .SpecialCells(xlCellTypeVisible).Copy Sheets("action").Range("B16")
         .AutoFilter
     End With
     
-    ' 枚数を出力
-    Worksheets("Sheet2").Activate
+    ' 枚数をシートに出力
+    Worksheets("action").Activate
     
     Dim card_id
     For Each card_id In deck.Keys()
@@ -96,6 +98,15 @@ Sub Action()
         Cells(row, 11).Value = deck.Item(card_id)
     Next
     
+    ' シートをコピーする
+    Worksheets("action").Copy After:=Worksheets("action")
+    
+    Dim name As String
+    name = Cells(1, 3).Value
+    
+    ActiveSheet.name = name
+    
+    Worksheets("action").Activate
     
     
 End Sub
