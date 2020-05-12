@@ -1,0 +1,13 @@
+id,name,tribe1,tribe2,rarity,cost ,culture1,culture2,category,series
+ZAAF,フェアリー・ライフ, 呪文, , BASIC,2, 自然, , 呪文, BASIC
+4EAE,炎のたてがみ, ビーストフォーク, , BASIC,2, 自然, , クリーチャー, BASIC
+GIAF,ソード・バタフライ, ギガント・インセクト, , BASIC,3, 自然, , クリーチャー, BASIC
+DEAF,銀の戦斧, ビーストフォーク, , BASIC,3, 自然, , クリーチャー, BASIC
+AAAF,青銅の鎧, ビーストフォーク, , BASIC,3, 自然, , クリーチャー, BASIC
+JMAF,フォレスト・ホーネット, ギガント・インセクト, , BASIC,4, 自然, , クリーチャー, BASIC
+4EAF,マドウ・スクラム, 呪文, , BASIC,4, 自然, , 呪文, BASIC
+PUAF,ウィップ・スコーピオン, ギガント・インセクト, , BASIC,5, 自然, , クリーチャー, BASIC
+MQAF,デスブレード・ビートル, ギガント・インセクト, , BASIC,5, 自然, , クリーチャー, BASIC
+SYAF,トゲ刺しマンドラ, ツリーフォーク, , BASIC,5, 自然, , クリーチャー, BASIC
+AAAG,大昆虫ガイアマンティス, ギガント・インセクト, , BASIC,6, 自然, , クリーチャー, BASIC
+V4AF,咆哮するグレート・ホーン, ホーン・ビースト, , BASIC,7, 自然, , クリーチャー, BASIC
