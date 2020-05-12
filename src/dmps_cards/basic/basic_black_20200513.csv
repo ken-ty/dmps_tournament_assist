@@ -1,13 +1,13 @@
-id,name,tribe1,tribe2,rarity,cost ,culture1,culture2,category,series
-PUAC,ブラッディ・イヤリング, ブレインジャッカー, , BASIC,2, 闇, , クリーチャー, BASIC
-SYAC,臓裂虫テンタイク・ワーム, パラサイトワーム, , BASIC,2, 闇, , クリーチャー, BASIC
-MQAD,ファントム・バイツ, 呪文, , BASIC,3, 闇, , 呪文, BASIC
-V4AC,嘆きの影ベルベットフロー, ゴースト, , BASIC,3, 闇, , クリーチャー, BASIC
-ZAAC,卵胞虫ゼリー・ワーム, パラサイトワーム, , BASIC,3, 闇, , クリーチャー, BASIC
-PUAD,デス・スモーク, 呪文, , BASIC,4, 闇, , 呪文, BASIC
-AAAD,汽車男, ヘドリアン, , BASIC,4, 闇, , クリーチャー, BASIC
-4EAC,暴食中グレゴリア・ワーム, パラサイトワーム, , BASIC,4, 闇, , クリーチャー, BASIC
-DEAD,腐卵虫ハングワーム, パラサイトワーム, , BASIC,5, 闇, , クリーチャー, BASIC
-GIAD,暗黒の騎士ザガーン, デーモン・コマンド, , BASIC,6, 闇, , クリーチャー, BASIC
-SYAD,魔翼虫ジェノサイド・ワーム, パラサイトワーム, , BASIC,6, 闇, , クリーチャー, BASIC
-JMAD,混沌の獅子デスライガー, デーモン・コマンド, , BASIC,7, 闇, , クリーチャー, BASIC
+id,name,tribe1,tribe2,rarity,cost,culture1,culture2,category,series
+PUAC,ブラッディ・イヤリング,ブレインジャッカー,,BASIC,2,闇,,クリーチャー,BASIC
+SYAC,臓裂虫テンタイク・ワーム,パラサイトワーム,,BASIC,2,闇,,クリーチャー,BASIC
+MQAD,ファントム・バイツ,呪文,,BASIC,3,闇,,呪文,BASIC
+V4AC,嘆きの影ベルベットフロー,ゴースト,,BASIC,3,闇,,クリーチャー,BASIC
+ZAAC,卵胞虫ゼリー・ワーム,パラサイトワーム,,BASIC,3,闇,,クリーチャー,BASIC
+PUAD,デス・スモーク,呪文,,BASIC,4,闇,,呪文,BASIC
+AAAD,汽車男,ヘドリアン,,BASIC,4,闇,,クリーチャー,BASIC
+4EAC,暴食中グレゴリア・ワーム,パラサイトワーム,,BASIC,4,闇,,クリーチャー,BASIC
+DEAD,腐卵虫ハングワーム,パラサイトワーム,,BASIC,5,闇,,クリーチャー,BASIC
+GIAD,暗黒の騎士ザガーン,デーモン・コマンド,,BASIC,6,闇,,クリーチャー,BASIC
+SYAD,魔翼虫ジェノサイド・ワーム,パラサイトワーム,,BASIC,6,闇,,クリーチャー,BASIC
+JMAD,混沌の獅子デスライガー,デーモン・コマンド,,BASIC,7,闇,,クリーチャー,BASIC

@@ -1,13 +1,13 @@
-id,name,tribe1,tribe2,rarity,cost ,culture1,culture2,category,series
-JMAB,アクア・ガード, リキッド・ピープル, , BASIC,1, 水, , クリーチャー, BASIC
-GIAC,スパイラル・スライダー, 呪文, , BASIC,2, 水, , 呪文, BASIC
-MQAB,アクア・ビーグル, リキッド・ピープル, , BASIC,2, 水, , クリーチャー, BASIC
-PUAB,アクア・ハルカス, リキッド・ピープル, , BASIC,3, 水, , クリーチャー, BASIC
-JMAC,ネオ・ブレイン, 呪文, , BASIC,4, 水, , 呪文, BASIC
-V4AB,ウォルタ, サイバーロード, , BASIC,3, 水, , クリーチャー, BASIC
-SYAB,キャンディ・ドロップ, サイバー・ウイルス, , BASIC,3, 水, , クリーチャー, BASIC
-4EAB,アクア・シューター, リキッド・ピープル, , BASIC,4, 水, , クリーチャー, BASIC
-ZAAB,ハンター・クラスター, サイバー・クラスター, , BASIC,4, 水, , クリーチャー, BASIC
-AAAC,アクア・ナイト, リキッド・ピープル, , BASIC,5, 水, , クリーチャー, BASIC
-DEAC,キング・オリオン, リヴァイアサン, , BASIC,7, 水, , クリーチャー, BASIC
-MQAC,クリスタル・ジャベリン, リキッド・ピープル, , BASIC,7, 水, , クリーチャー, BASIC
+id,name,tribe1,tribe2,rarity,cost,culture1,culture2,category,series
+JMAB,アクア・ガード,リキッド・ピープル,,BASIC,1,水,,クリーチャー,BASIC
+GIAC,スパイラル・スライダー,呪文,,BASIC,2,水,,呪文,BASIC
+MQAB,アクア・ビーグル,リキッド・ピープル,,BASIC,2,水,,クリーチャー,BASIC
+PUAB,アクア・ハルカス,リキッド・ピープル,,BASIC,3,水,,クリーチャー,BASIC
+JMAC,ネオ・ブレイン,呪文,,BASIC,4,水,,呪文,BASIC
+V4AB,ウォルタ,サイバーロード,,BASIC,3,水,,クリーチャー,BASIC
+SYAB,キャンディ・ドロップ,サイバー・ウイルス,,BASIC,3,水,,クリーチャー,BASIC
+4EAB,アクア・シューター,リキッド・ピープル,,BASIC,4,水,,クリーチャー,BASIC
+ZAAB,ハンター・クラスター,サイバー・クラスター,,BASIC,4,水,,クリーチャー,BASIC
+AAAC,アクア・ナイト,リキッド・ピープル,,BASIC,5,水,,クリーチャー,BASIC
+DEAC,キング・オリオン,リヴァイアサン,,BASIC,7,水,,クリーチャー,BASIC
+MQAC,クリスタル・ジャベリン,リキッド・ピープル,,BASIC,7,水,,クリーチャー,BASIC

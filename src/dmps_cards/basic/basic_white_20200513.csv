@@ -1,13 +1,13 @@
-id,name,tribe1,tribe2,rarity,cost ,culture1,culture2,category,series
-DE99,蒼天の守護者ラ・ウラ・ギガ, ガーディアン, , BASIC,1, 光, , クリーチャー, BASIC
-GI91,雲霧の守護者ク・ラウド, ガーディアン, , BASIC,2, 光, , クリーチャー, BASIC
-JM88,鎮圧の使徒サリエス, イニシエート, , BASIC,2, 光, , クリーチャー, BASIC
-AAAB,ソーラー・レイ, 呪文, , BASIC,2, 光, , 呪文, BASIC
-MQ98,晴天の守護者レゾ・パコス, ガーディアン, , BASIC,3, 光, , クリーチャー, BASIC
-DEAB,ムーンライト・フラッシュ, 呪文, , BASIC,4, 光, , 呪文, BASIC
-PU89,磁力の使徒マグリス, イニシエート, , BASIC,4, 光, , クリーチャー, BASIC
-V481,予言者コロン, ライトブリンガー, , BASIC,4, 光, , クリーチャー, BASIC
-SY91,琥珀草, スターライト・ツリー, , BASIC,4, 光, , クリーチャー, BASIC
-GIAB,守護聖天ラディア・バーレ, ガーディアン, , BASIC,6, 光, , クリーチャー, BASIC
-ZA08,浄化の精霊ウルス, エンジェル・コマンド, , BASIC,6, 光, , クリーチャー, BASIC
-4E98,光輪の精霊シャウナ, エンジェル・コマンド, , BASIC,7, 光, , クリーチャー, BASIC
+id,name,tribe1,tribe2,rarity,cost,culture1,culture2,category,series
+DE99,蒼天の守護者ラ・ウラ・ギガ,ガーディアン,,BASIC,1,光,,クリーチャー,BASIC
+GI91,雲霧の守護者ク・ラウド,ガーディアン,,BASIC,2,光,,クリーチャー,BASIC
+JM88,鎮圧の使徒サリエス,イニシエート,,BASIC,2,光,,クリーチャー,BASIC
+AAAB,ソーラー・レイ,呪文,,BASIC,2,光,,呪文,BASIC
+MQ98,晴天の守護者レゾ・パコス,ガーディアン,,BASIC,3,光,,クリーチャー,BASIC
+DEAB,ムーンライト・フラッシュ,呪文,,BASIC,4,光,,呪文,BASIC
+PU89,磁力の使徒マグリス,イニシエート,,BASIC,4,光,,クリーチャー,BASIC
+V481,予言者コロン,ライトブリンガー,,BASIC,4,光,,クリーチャー,BASIC
+SY91,琥珀草,スターライト・ツリー,,BASIC,4,光,,クリーチャー,BASIC
+GIAB,守護聖天ラディア・バーレ,ガーディアン,,BASIC,6,光,,クリーチャー,BASIC
+ZA08,浄化の精霊ウルス,エンジェル・コマンド,,BASIC,6,光,,クリーチャー,BASIC
+4E98,光輪の精霊シャウナ,エンジェル・コマンド,,BASIC,7,光,,クリーチャー,BASIC
