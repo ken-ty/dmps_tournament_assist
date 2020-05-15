@@ -16,7 +16,8 @@
 ├─── README.md      # このファイルのこと
 ├─── main.ipynb     # 実行ファイル
 ├─── src            # プログラムファイル
-└─── dmps_cards     # デュエプレのカードセット  
+├─── dmps_cards     # デュエプレのカードセット
+└─── LISENCE        # MIT LISENCE
 ~~~
 
 
